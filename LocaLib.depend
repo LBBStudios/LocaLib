@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1661023628 source:c:\users\gieva\documents\projects\lbb\localib\src\localib.cpp
+	"LocaLib.h"
+
+1661023367 c:\users\gieva\documents\projects\lbb\localib\src\localib.h
+	<iostream>
+	<string>
+	<sstream>
+	<map>
+	<fstream>
+	<vector>
+
