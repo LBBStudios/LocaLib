@@ -3,7 +3,7 @@ A simple, public domain, header-only C++ library that handles localizations for 
 Comes with no warranty of any kind, and is provided 'AS-IS'.
 
 ## Sample usage
-Although there is a Code::Blocks project provided for convience, you only require the LocaLib.h header to use the library.
+Although there is a Code::Blocks project provided for convience, ***you only require the LocaLib.h header to use the library.***
 Here is a minimal example of all the major functions:
 
 ```cpp
